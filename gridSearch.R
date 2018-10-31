@@ -1,6 +1,7 @@
 # TODO: Functionize. Create a function that creates the gridSearch function for i in nHyperparameters to tune.
-# Example from a metabolomics grid search bout following:
+# Function factories here: https://adv-r.hadley.nz/function-factories.html
 
+# Example from a metabolomics grid search bout following:
 
 
 # CREATE HYPERPARAMETER VECTORS WITH SELECTED VALUES TO BE CHECKED:
